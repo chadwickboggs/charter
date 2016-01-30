@@ -9,34 +9,36 @@ Legend:
 
 
 [20160129]
-	[ ] USRVS-2026: 
-	[ ] USRVS-2765: 
-	[ ] USRVS-2373: 
+	[ ] USRVS-2026: (not touched)
+	[~] USRVS-2765: Made a possible fix, updated "common-core-lib" dependency version in LRM Client pom.xml.
+		- Before and after Jenkins Maven releases the LRM middle builds fail.
+		- The LRM Edge build succeeds but its Dev AMI build fails.
+	[+] USRVS-2373: Ticket is closed.
 
 
 [20160128]
-	[~] USRVS-2026: (did not touch)
+	[~] USRVS-2026: (not touched)
 	[~] USRVS-2765: Confirmed issue is exhibited in our dev. env..
-	[~] USRVS-2373: (did not touch)
+	[~] USRVS-2373: (not touched)
 
 
 [20160127]
 	[+] USRVS-2026: Started
-	[~] USRVS-2765: (did not touch)
-	[~] USRVS-2373: (did not touch)
+	[~] USRVS-2765: (not touched)
+	[~] USRVS-2373: (not touched)
 
 
 [20160126]
 	[+] USRVS-2433: Dropped ticket.
 	[+] USRVS-2026: Started
-	[~] USRVS-2765: (did not touch)
-	[~] USRVS-2373: (did not touch)
+	[~] USRVS-2765: (not touched)
+	[~] USRVS-2373: (not touched)
 
 
 [20160125]
 	[+] USRVS-2433: Started.
-	[~] USRVS-2765: (did not touch)
-	[~] USRVS-2373: (did not touch)
+	[~] USRVS-2765: (not touched)
+	[~] USRVS-2373: (not touched)
 
 
 [20160124]
