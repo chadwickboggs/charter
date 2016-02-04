@@ -8,6 +8,20 @@ Legend:
 	[+] - Completed
 
 
+[20160201]
+	[ ] USRVS-2765: 
+	[ ] USRVS-2026: 
+	[ ] USRVS-2372: 
+
+
+[20160131]
+	(weekend day): (did not work)
+
+
+[20160130]
+	(weekend day): (did not work)
+
+
 [20160129]
 	[ ] USRVS-2026: (not touched)
 	[~] USRVS-2765: Made a possible fix, updated "common-core-lib" dependency version in LRM Client pom.xml.
