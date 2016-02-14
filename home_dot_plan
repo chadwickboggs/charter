@@ -8,10 +8,41 @@ Legend:
 	[+] - Completed
 
 
+[20160213]
+	(weekend day): (did not work)
+
+
+[20160212]
+	[~] USRVS-2026: Changed observables of list of entities to simply observables of entities.
+
+
+[20160208-20160211]
+	[~] USRVS-2026: 
+
+
+[20160207]
+	(weekend day): (did not work)
+
+
+[20160206]
+	(weekend day): (did not work)
+
+
+[20160205]
+	[~] USRVS-2026:
+		- Local works.
+		- Dev env.: {middle works, edge returns error}
+	[~] USRVS-2765: Reverted.
+
+
+[20160202-20160204]
+	(no entry)
+
+
 [20160201]
-	[ ] USRVS-2765: 
-	[ ] USRVS-2026: 
-	[ ] USRVS-2372: 
+	[~] USRVS-2765: 
+	[~] USRVS-2026: 
+	[~] USRVS-2372: 
 
 
 [20160131]
