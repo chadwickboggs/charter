@@ -8,14 +8,39 @@ Legend:
 	[+] - Completed
 
 
-[20160215-20160219]
-	[ ] USRVS-2026: 
+[20160302]
+	[ ] USRVS-2765: 
 
 
-[20160214]
+[20160229-20160301]
+	(sick day): (did not work)
+
+
+[20160227-20160228]
 	(weekend day): (did not work)
 
-[20160213]
+
+[20160226]
+	(sick day): (did not work)
+
+
+[20160224-20160225]
+	[~] USRVS-2765:
+		- Observed LRM config redeclares geo client properties with some incorrect values.
+	[~] USRVS-2026:
+		- Corrected/simplified Rx usage.
+		- Extended some unit tests.
+
+
+[20160222-20160223]
+	[+] USRVS-2026: Released it.
+
+
+[20160215-20160219]
+	[~] USRVS-2026: 
+
+
+[20160213-20160214]
 	(weekend day): (did not work)
 
 
@@ -27,11 +52,7 @@ Legend:
 	[~] USRVS-2026: 
 
 
-[20160207]
-	(weekend day): (did not work)
-
-
-[20160206]
+[20160206-20160207]
 	(weekend day): (did not work)
 
 
@@ -52,11 +73,7 @@ Legend:
 	[~] USRVS-2372: 
 
 
-[20160131]
-	(weekend day): (did not work)
-
-
-[20160130]
+[20160130-20160131]
 	(weekend day): (did not work)
 
 
@@ -93,11 +110,7 @@ Legend:
 	[~] USRVS-2373: (not touched)
 
 
-[20160124]
-	(weekend day): (did not work)
-
-
-[20160123]
+[20160123-20160124]
 	(weekend day): (did not work)
 
 
