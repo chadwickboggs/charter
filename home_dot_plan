@@ -8,8 +8,131 @@ Legend:
 	[+] - Completed
 
 
-[20160302]
-	[ ] USRVS-2765: 
+Please Note:
+	I stopped maintaining this file.
+
+
+[20160523]
+	[ ] USRVS-3804:
+		- Merged pull requests.
+	[ ] USRVS-3861:
+		- Created pull requests.
+	[ ] USRVS-3857:
+		- Still waiting on this pull request to be reviewed.
+	[~] USRVS-3761.1:
+		- Resolved conflicts from develop merge.
+
+
+[20160521-20160522]
+	(weekend day): (did not work)
+
+
+[20160520]
+	[ ] USRVS-3857:
+		- Began.
+
+[20160518-20160519]
+	[~] USRVS-3804:
+		- Began and continued.
+
+
+[201603121=20160517]
+	[~] USRVS-3761 (and related tickets):
+		- Implementation completed for CRU operations, edge and middle with logging without "@RestService" due to dependency problems.
+
+
+[201603121]
+	[~] USRVS-673: 
+
+
+[201603121]
+	[~] USRVS-673: 
+
+
+[201603121]
+	[~] USRVS-673: 
+
+	[~] USRVS-2259: SEQA:FirstName Lastname data is not coming for an account with SessionInfo backend api call
+		- Michael Sobota answered the question I asked to him.
+
+
+[20160319-20160320]
+	(weekend day): (did not work)
+
+
+[20160318]
+	[~] USRVS-673: 
+		- Completed 1/3: Series web-services.
+
+
+[20160317]
+	[~] USRVS-673: 
+		- Resumed.
+	[+] USRVS-2001:
+		- Sakti closed it.
+	[+] USRVS-1029: 
+		- Sakti closed it.
+	[+] USRVS-651: 
+		- Abandoned.
+
+
+[20160316]
+	[~] USRVS-2001:
+		- Resumed investigation.
+	[+] USRVS-651: Ticket complete.
+	[+] USRVS-673: Asked for a requirements clarification.
+
+
+[20160315]
+	[~] USRVS-651: 
+		- Started.
+		- Send a question to Paul Howard.
+	[+] Integration_Tests (ipwhitelist):
+		- Added IpWhitelistRS_Version_IT.groovy.
+		- Resolved groovy code analysis warnings.
+		- Pull requests created.
+		- Completed.
+	[+] USRVS-2843:
+		- Completed.
+
+
+[20160314]
+	[~] USRVS-2943: 
+		- Pull request outstanding.
+	[~] USRVS-2259: 
+		- Michael Sobota took it.
+		- It has an outstanding question regarding requirements.
+	[~] USRVS-2765: 
+		- It was complete, although I did not see my release request responded to.
+			- {USRVS-3325, USRVS-3326}
+		- I think another release may have happened after mine.
+	[~] USRVS-3154:
+		- I investigated.
+		- It appears that Natalia took it.
+
+
+[20160312-20160313]
+	(weekend day): (did not work)
+
+
+[20160311]
+	[~] USRVS-2943: Started.  Created pull requests.
+	[~] USRVS-2765:
+		- Released to engprod STVAA, QA tests pending.
+
+
+[20160310]
+	[~] USRVS-2259: Posted a question.
+		"The session info uservice is coded explicitly excluded the account ContactInfo. It throws that data away. Did a requirement here change? In other words, should the feature of returning that data be added despite that data's potential presence in member fields as Colin described?"-myself
+
+
+[20160309]
+	[+] USRVS-2765: Released to cnet
+
+
+[20160302-20160308]
+	[ ] USRVS-2259: Investigated
+	(other activities not recorded)
 
 
 [20160229-20160301]
